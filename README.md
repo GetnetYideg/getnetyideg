@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Moa
+# 👋 Hey, I'm Getnet
 
 ### Software Engineering Student • Backend Developer • Cybersecurity Learner
 
@@ -38,29 +38,11 @@ I mainly work with **TypeScript/Node.js backend development**, while also explor
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-* Node.js
-* Express.js
-* TypeScript
-* REST APIs
-* JWT Authentication
-* Joi Validation
-* MVC / Layered Architecture
-* WebSockets
-* API Design
-
 ### 🗄️ Databases & Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
 </p>
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Prisma ORM
-* Mongoose
-* Supabase
-* Cloud Storage / Object Storage
 
 ### 🎨 Frontend
 
@@ -68,13 +50,12 @@ I mainly work with **TypeScript/Node.js backend development**, while also explor
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
-* Responsive Web Design
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
 
 ### 🔐 Cybersecurity
 
@@ -89,22 +70,6 @@ Interested in:
 * Linux Security
 * Security Testing
 
-### 🛠️ Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
-</p>
-
-* Git & GitHub
-* Docker
-* Postman
-* VS Code
-* Linux / Fedora
-* Nginx
-* PM2
-* REST API testing
-
----
 
 # 🚀 What I'm Working On
 
@@ -267,11 +232,11 @@ I'm continuously expanding my knowledge in:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=getnetyideg&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getnetyideg&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -279,7 +244,7 @@ I'm continuously expanding my knowledge in:
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getnetyideg&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -364,11 +329,11 @@ I'm always interested in:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/getnetyideg">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/getnet-yideg-095a1b363/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
