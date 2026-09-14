@@ -54,14 +54,6 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
 
 ---
 
-# Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getnetyideg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 2026 Goals
 
 * [ ] Become highly proficient in TypeScript
