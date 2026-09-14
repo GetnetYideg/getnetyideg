@@ -210,7 +210,6 @@ I'm continuously expanding my knowledge in:
 ### Cybersecurity
 
 * Web application penetration testing
-* OWASP Top 10
 * Authentication vulnerabilities
 * Authorization vulnerabilities
 * File upload vulnerabilities
