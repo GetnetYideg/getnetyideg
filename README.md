@@ -9,18 +9,18 @@ I mainly work with **TypeScript/Node.js backend development**, while also explor
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
-
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,php,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,php,prisma" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
