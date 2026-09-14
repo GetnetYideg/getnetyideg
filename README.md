@@ -1,10 +1,12 @@
-# 👋 Hey, I'm Getnet
+<div align="center">
+👋 Hey, I'm Getnet
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Cybersecurity+Learner;Linux+Enthusiast" alt="Typing Animation" /> <p> <a href="https://github.com/"> <img src="https://img.shields.io/badge/Software%20Engineering-Student-00BFFF?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://nodejs.org/"> <img src="https://img.shields.io/badge/Backend-Developer-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </a> <a href="https://www.linux.org/"> <img src="https://img.shields.io/badge/Linux-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge&logo=hackthebox&logoColor=white" /> </a> </p> </div> 
 
-### Software Engineering Student • Backend Developer • Cybersecurity Learner
+I'm a Software Engineering student at AASTU and a developer passionate about building practical software, understanding how systems work, and continuously improving my engineering skills.
 
-I'm a **Software Engineering student** at **AASTU** and developer interested in building practical software, learning how systems work, and continuously improving my engineering skills.
+My primary focus is backend development with TypeScript and Node.js, while I'm also exploring frontend development, databases, cybersecurity, and system design.
 
-I mainly work with **TypeScript/Node.js backend development**, while also exploring **frontend development, databases, cybersecurity, and system design**. And also I am comfortable working in **Linux/Fedora** environments.
+I'm comfortable working in Linux/Fedora environments and enjoy learning by building, experimenting, and solving real-world problems.
 
 
 ## Tech Stack
@@ -31,10 +33,6 @@ I mainly work with **TypeScript/Node.js backend development**, while also explor
 </p>
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=getnetyideg&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=getnetyideg&theme=tokyonight&hide_border=true" />
