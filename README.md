@@ -38,7 +38,7 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=getnetYideg&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.vercel.app/?user=getnetYideg&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
