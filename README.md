@@ -34,10 +34,27 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
 </p>
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=getnetyideg&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -51,21 +68,6 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
     style="object-fit: cover;"
   />
 </p>
-
----
-
-# 2026 Goals
-
-* [ ] Become highly proficient in TypeScript
-* [ ] Build production-quality Node.js APIs
-* [ ] Improve PostgreSQL & database design skills
-* [ ] Learn advanced system design
-* [ ] Build and deploy complete full-stack applications
-* [ ] Improve software testing practices
-* [ ] Strengthen cybersecurity knowledge
-* [ ] Complete more security labs
-* [ ] Contribute to open-source projects
-* [ ] Build a stronger GitHub portfolio
 
 ---
 
