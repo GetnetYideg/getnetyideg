@@ -34,14 +34,25 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
 </p>
 
+---
 # GitHub Stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.vercel.app/?user=getnetYideg&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=getnetYideg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=getnetYideg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+# GitHub Streak
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+</div>
 
 ---
 # LeetCode Stats:
