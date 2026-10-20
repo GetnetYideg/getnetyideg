@@ -44,19 +44,6 @@ I'm comfortable working in Linux/Fedora environments and enjoy learning by build
 </p>
 
 ---
-# LeetCode Stats:
-
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/gecha_6?theme=dark&font=JetBrains%20Mono&ext=heatmap" 
-    width="850px"
-    height="300px"
-    style="object-fit: cover;"
-  />
-</p>
-
----
-
 
 # Let's Connect
 
